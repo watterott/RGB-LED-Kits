@@ -17,3 +17,7 @@ RGB-LED Cube and RGB-LED Star.
 ## Assembly Instructions
 * [Cube Instructions](https://github.com/watterott/RGB-LED-Kits/raw/master/docs/RGB-LED-Cube.pdf)
 * [Star Instructions](https://www.youtube.com/watch?v=gO_weM_413U)
+
+
+## Videos
+* [![RGB-LED Star](http://img.youtube.com/vi/gk-UFCTPIJE/0.jpg)](https://www.youtube.com/watch?v=gk-UFCTPIJE)
