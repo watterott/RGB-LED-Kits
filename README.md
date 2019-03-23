@@ -5,6 +5,7 @@ RGB-LED Cube and RGB-LED Star Learn to Solder Kits.
 
 * RGB-LED with built-in blink/fade automatic
 * Power Supply: 9V battery
+* **[Documentation on learn.watterott.com](https://learn.watterott.com)**
 
 
 ## Assembly Instructions
